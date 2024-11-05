@@ -9,3 +9,5 @@ Ce projet présente l'utilisation d'Anaconda pour la gestion des dépendances et
 https://bility.fr/lexique-du-developpeur/
 
 https://blog.stephane-robert.info/docs/developper/dependances/introduction/
+
+https://drive.google.com/file/d/10-I9HwIJoB2HPCyuiv3Acz4Ruk7A11B_/view?usp=sharing
